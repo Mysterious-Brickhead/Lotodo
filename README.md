@@ -6,3 +6,4 @@
         I remembered a show I used to watch a long time ago, someone was named "Lotodo"<h1>
         <h1>NOTE: Lotodo shuts down at night, please have a backup moderation bot<h1>
         
+![Lotodo's Logodoe](https://media.discordapp.net/attachments/743999081973678081/753250617853607977/is_it_for_me.png "Lotodo's Logo.")
